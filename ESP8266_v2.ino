@@ -9,8 +9,8 @@
 #define offset 0x00    // SDD1306                      // offset=0 for SSD1306 controller
 //#define offset 0x02    // SH1106                       // offset=2 for SH1106 controller
 #define OLED_address  0x3c                             // all the OLED's I have seen have this address
-#define SSID "Jason&Cindy"                              // insert your SSID
-#define PASS "ginger4ever"                              // insert your password
+#define SSID "yourSSID"                              // insert your SSID
+#define PASS "yourPASS"                              // insert your password
 // ******************* String form to sent to the client-browser ************************************
 String form =
 "<p>"
